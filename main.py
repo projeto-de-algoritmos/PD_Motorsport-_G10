@@ -38,7 +38,7 @@ peças = ["Pneu", "Motor", "Chassi"]
 valor = [100, 300, 200]
 peso = [2, 5, 10]
 capacidade_maxima = 20
-valor_maximo = 2000
+valor_maximo = 400
 
 valor_total, peças_selecionadas = mochila(valor, peso, capacidade_maxima, valor_maximo)
 
