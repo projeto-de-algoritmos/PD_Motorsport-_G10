@@ -1,0 +1,1 @@
+Caso não consiga baixar o vídeo, assista por aqui: https://www.loom.com/share/d56e3b471f3f4de4aa89294f52b2da51?sid=353cbba7-09ed-438d-a45f-33855c82b28c
