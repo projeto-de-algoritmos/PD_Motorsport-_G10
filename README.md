@@ -10,29 +10,29 @@
 | 20/2017521  |  Algusto Rodrigues Caldas |
 
 ## Sobre 
-xxx
+Um algoritmo da mochila relacionado a peças de carro com seus respectivos pesos e valores, tendo uma capacidade e um valor limite imposto pelo própio usuário.
 
 ## Screenshots
-<center>Labirinto 1</center>
+<center>Exemplo 1</center>
 
-![Labirinto 1](./assets/lab1.jpeg)
+![Labirinto 1](./assets/img1.jpeg)
 
-<center>Labirinto 2</center>
+<center>Exemplo 2</center>
 
-![Labirinto 2](./assets/lab2.jpeg)
+![Labirinto 2](./assets/img2.jpeg)
 
-<center>Labirinto 3</center>
+<center>Exemplo 3</center>
 
-![Labirinto 3](./assets/lab3.jpeg)
+![Labirinto 3](./assets/img3.jpeg)
 
 
 ## Instalação 
 **Linguagem**: Python<br>
-**Framework**: xxx  <br>
+**Framework**: Tkinter  <br>
 Necessário ter uma versão atualizada da linguagem Python (Preferência 3.10) e, além disso, instalar o framework xxx (Use o comando: pip install). 
 
 ## Uso 
-xxxx
+Preencher o número dos valores, e o peso das peças, e respectivamente o valor máximo e capacidade máxima
 
 ## Outros 
-xxxx
+None
